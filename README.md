@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 ## Linked List
 |  |
@@ -35,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
