@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/spartanabhi/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/spartanabhi/Leetcode/tree/master/0234-palindrome-linked-list) |
