@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
+| [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Recursion
 |  |
 | ------- |
