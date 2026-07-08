@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
@@ -66,11 +67,13 @@
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Recursion
 |  |
