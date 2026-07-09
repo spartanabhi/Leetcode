@@ -19,6 +19,7 @@
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/spartanabhi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +134,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
