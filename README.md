@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/spartanabhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/spartanabhi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/spartanabhi/Leetcode/tree/master/0198-house-robber) |
@@ -55,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/spartanabhi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/spartanabhi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -101,6 +103,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/spartanabhi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/spartanabhi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
