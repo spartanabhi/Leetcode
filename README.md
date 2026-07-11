@@ -136,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/spartanabhi/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
@@ -143,4 +144,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
