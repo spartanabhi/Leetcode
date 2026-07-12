@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/spartanabhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spartanabhi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
@@ -53,6 +55,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/spartanabhi/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/spartanabhi/Leetcode/tree/master/0148-sort-list) |
