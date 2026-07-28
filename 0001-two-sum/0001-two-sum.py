@@ -6,7 +6,7 @@ class Solution:
         for i in range(n):
             complement = target - nums[i]
             if complement in numMap:
-                return [numMap[complement], i]
+                result = [numMap[complement], i]
             numMap[nums[i]] = i
 
-        return []  # No solution found
+        return result if result else print -1  # No solution found
