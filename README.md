@@ -36,6 +36,7 @@
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/spartanabhi/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -105,12 +106,14 @@
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/spartanabhi/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -214,4 +218,8 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
