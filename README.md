@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/spartanabhi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/spartanabhi/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
