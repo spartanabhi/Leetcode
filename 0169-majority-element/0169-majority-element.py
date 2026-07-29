@@ -1,6 +1,10 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        nums.sort()
-        n = len(nums)
-        return nums[n//2]
+class Solution:
+    def majorityElement(self, arr: List[int]) -> int:
+        candidate = None
+        count = 0
+        for num in arr:
+            if count == 0:
+                candidate = num
+            count += 1 if num == candidate else -1
+        return candidate
         
