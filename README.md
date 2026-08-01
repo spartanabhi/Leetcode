@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/spartanabhi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/spartanabhi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -146,6 +147,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/spartanabhi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/spartanabhi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/spartanabhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/spartanabhi/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/spartanabhi/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spartanabhi/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
@@ -262,4 +266,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spartanabhi/Leetcode/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
