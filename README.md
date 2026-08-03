@@ -228,6 +228,7 @@
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/spartanabhi/Leetcode/tree/master/1406-stone-game-iii) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/spartanabhi/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spartanabhi/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/spartanabhi/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
