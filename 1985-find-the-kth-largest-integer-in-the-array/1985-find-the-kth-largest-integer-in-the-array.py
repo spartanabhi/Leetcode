@@ -1,5 +1,10 @@
 class Solution:
     def kthLargestNumber(self, nums: List[str], k: int) -> str:
-        arr = list(map(int,nums))
-        arr.sort(reverse = True)
-        return str(arr[k-1])
+        maxHeap = [-int(x) for x in nums]
+        heapify(maxHeap)
+
+        while k > 1:
+            heappop(maxHeap)
+            k -= 1
+            
+        return str(-maxHeap[0])
