@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/spartanabhi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -126,6 +127,7 @@
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/spartanabhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/spartanabhi/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/spartanabhi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
