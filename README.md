@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/spartanabhi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/spartanabhi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/spartanabhi/Leetcode/tree/master/0056-merge-intervals) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 ## Tree
@@ -232,6 +234,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/spartanabhi/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
