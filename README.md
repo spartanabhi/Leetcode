@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/spartanabhi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/spartanabhi/Leetcode/tree/master/1406-stone-game-iii) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/spartanabhi/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
