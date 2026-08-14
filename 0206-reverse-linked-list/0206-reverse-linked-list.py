@@ -1,20 +1,11 @@
 class Solution:
-    def reverseList(self, head):
-        arr = []
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev = None
+        curr = head
 
-        # Linked List → Array
-        while head:
-            arr.append(head.val)
-            head = head.next
-
-        # Array → Linked List
-        dummy = ListNode(0)
-        curr = dummy
-
-        for val in reversed(arr):
-            curr.next = ListNode(val)
-            curr = curr.next
-
-        return dummy.next
-    
-    
+        while curr:
+            next_node = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next_node
+        return prev
