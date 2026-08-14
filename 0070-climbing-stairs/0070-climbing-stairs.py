@@ -1,11 +1,11 @@
-class Solution(object):
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        ways =[1,1,2]
-        for step in range(3,n+1):
-            ways.append(ways[step-1]+ways[step-2])
-        return ways[n]
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n <=1:
+            return 1
+        else:
+            a, b = 1, 1 # ways(0), ways(1)
+            for _ in range(2, n + 1):
+                a, b = b, a + b
+        return b
+
         
