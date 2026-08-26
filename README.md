@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/spartanabhi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/spartanabhi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
@@ -79,6 +80,7 @@
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/spartanabhi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/spartanabhi/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
