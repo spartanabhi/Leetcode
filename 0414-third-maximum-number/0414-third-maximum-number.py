@@ -4,9 +4,6 @@ class Solution:
         if len(nums)>=3:
             return nums[2]
         elif len(nums)<=2:
-            if len(nums)==2:
-                return nums[0]
-            elif len(nums)==1:
-                return nums[0]
-            else:
-                return
+            return nums[0]
+        else:
+            return
