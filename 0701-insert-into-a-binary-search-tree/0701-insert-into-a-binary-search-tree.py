@@ -17,7 +17,7 @@ class Solution:
                 else:
                     curr.left = newNode
                     break
-            elif target>curr.val:
+            else:
                 if curr.right != None:
                     curr = curr.right
                 else:
