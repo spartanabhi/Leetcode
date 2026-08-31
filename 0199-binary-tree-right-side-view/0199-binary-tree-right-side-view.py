@@ -1,21 +1,32 @@
-class Solution(object):
-    def rightSideView(self, root):
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        res = []
+
         if not root:
-            return []
+            return res
+        
+        q = collections.deque()
+        q.append(root)
+    
+        while q:
+            same_level = []
 
-        result = []
-        queue = [root]
+            for _ in range(len(q)):
+                node = q.popleft()
+                same_level.append(node.val)
 
-        while queue:
-            result.append(queue[-1].val)
-
-            level = []
-            for node in queue:
                 if node.left:
-                    level.append(node.left)
+                    q.append(node.left)
                 if node.right:
-                    level.append(node.right)
-
-            queue = level
-
-        return result
+                    q.append(node.right)
+            
+            res.append(same_level[-1])
+        
+        return res
+        
