@@ -233,6 +233,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/spartanabhi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/spartanabhi/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/spartanabhi/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/spartanabhi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/spartanabhi/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/spartanabhi/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,4 +374,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/spartanabhi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spartanabhi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/spartanabhi/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
