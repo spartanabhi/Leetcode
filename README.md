@@ -183,6 +183,7 @@
 | [0020-valid-parentheses](https://github.com/spartanabhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/spartanabhi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/spartanabhi/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/spartanabhi/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -222,12 +223,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/spartanabhi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/spartanabhi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -239,6 +242,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/spartanabhi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Dynamic Programming
 |  |
