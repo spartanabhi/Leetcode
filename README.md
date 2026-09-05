@@ -197,6 +197,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/spartanabhi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/spartanabhi/Leetcode/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -256,6 +257,7 @@
 | [0404-sum-of-left-leaves](https://github.com/spartanabhi/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/spartanabhi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0404-sum-of-left-leaves](https://github.com/spartanabhi/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/spartanabhi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,4 +405,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/spartanabhi/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
