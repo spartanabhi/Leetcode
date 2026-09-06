@@ -57,6 +57,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/spartanabhi/Leetcode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/spartanabhi/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/spartanabhi/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -303,6 +304,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/spartanabhi/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/spartanabhi/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/spartanabhi/Leetcode/tree/master/1406-stone-game-iii) |
 ## Simulation
