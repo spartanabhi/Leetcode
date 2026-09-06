@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/spartanabhi/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +232,7 @@
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 ## Tree
 |  |
@@ -297,6 +299,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/spartanabhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
