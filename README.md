@@ -59,6 +59,7 @@
 | [0443-string-compression](https://github.com/spartanabhi/Leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/spartanabhi/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/spartanabhi/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spartanabhi/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/spartanabhi/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +303,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/spartanabhi/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/spartanabhi/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/spartanabhi/Leetcode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
@@ -426,4 +428,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/spartanabhi/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
