@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/spartanabhi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/spartanabhi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/spartanabhi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/spartanabhi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spartanabhi/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/spartanabhi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/spartanabhi/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spartanabhi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/spartanabhi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/spartanabhi/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/spartanabhi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -302,6 +305,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/spartanabhi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/spartanabhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spartanabhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -401,6 +405,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/spartanabhi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/spartanabhi/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Bracket Sequences
 |  |
