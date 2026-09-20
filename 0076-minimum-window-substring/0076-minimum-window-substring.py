@@ -1,30 +1,19 @@
 class Solution:
-    def minWindow(self, s: str, t: str) -> str:
-        need = {}
-        window = {}
-        for c in t:
-            need[c]=need.get(c,0)+1
-        left = right = 0
-        valid = 0
-        start,length = 0,float('inf')
-        while right<len(s):
-            c = s[right]
-            right+=1
-            if c in need:
-                window[c]=window.get(c,0)+1
-                if window[c]==need[c]:
-                    valid +=1
-            while valid == len(need):
-                if right - left < length:
+    def minWindow(self, s, t):
+        need, missing = collections.Counter(t), len(t)
+        i = I = J = 0
 
-                    start,length = left , right-left
-                d = s[left]
-                left +=1
-                if d in need:
-                    if window[d]==need[d]:
-                        valid -=1
-                    window[d]-=1
-        if length == float('inf'):
-            return ""
-        return s[start:start+length]
+        for j, c in enumerate(s, 1):
+            missing -= need[c] > 0
+            need[c] -= 1
+
+            if not missing:
+                while i < j and need[s[i]] < 0:
+                    need[s[i]] += 1
+                    i += 1
+
+                if not J or j - i <= J - I:
+                    I, J = i, j
+
+        return s[I:J]
         
