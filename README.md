@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/spartanabhi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/spartanabhi/Leetcode/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/spartanabhi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/spartanabhi/Leetcode/tree/master/1406-stone-game-iii) |
@@ -248,6 +249,7 @@
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/spartanabhi/Leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0547-number-of-provinces](https://github.com/spartanabhi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/spartanabhi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/spartanabhi/Leetcode/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/spartanabhi/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
