@@ -1,13 +1,7 @@
-class Solution(object):
-    def rob(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        for i in range(1,len(nums)):
-            if i == 1:
-                nums[i] = max(nums[i],nums[i-1])
-            else:
-                nums[i] = max(nums[i]+nums[i-2],nums[i-1])
-        return nums[-1]
+class Solution:
+    def rob(self, nums: list[int]) -> int:
+        prev, curr = 0,0
+        for i in nums:
+            prev , curr = curr, max(prev+i,curr)
+        return curr
         
