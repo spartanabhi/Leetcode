@@ -481,4 +481,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/spartanabhi/Leetcode/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/spartanabhi/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
