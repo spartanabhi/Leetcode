@@ -477,4 +477,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/spartanabhi/Leetcode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/spartanabhi/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
