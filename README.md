@@ -69,6 +69,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/spartanabhi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/spartanabhi/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/spartanabhi/Leetcode/tree/master/0567-permutation-in-string) |
@@ -181,6 +182,7 @@
 | [0383-ransom-note](https://github.com/spartanabhi/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/spartanabhi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/spartanabhi/Leetcode/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/spartanabhi/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -245,6 +247,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/spartanabhi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/spartanabhi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/spartanabhi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/spartanabhi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/spartanabhi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/spartanabhi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/spartanabhi/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
