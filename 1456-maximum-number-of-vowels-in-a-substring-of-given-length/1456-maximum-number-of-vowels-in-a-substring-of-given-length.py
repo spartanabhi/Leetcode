@@ -6,11 +6,6 @@ class Solution:
         max_count = float("-inf")
         if not s :
             return 0
-        if len(s)<=k:
-            for i in range(len(s)):
-                if s[i] in vowel:
-                    count+=1
-            return count
         for i in range(k):
             if s[i] in vowel:
                 count+=1
