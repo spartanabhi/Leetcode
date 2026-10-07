@@ -484,4 +484,12 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/spartanabhi/Leetcode/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/spartanabhi/Leetcode/tree/master/0184-department-highest-salary) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
