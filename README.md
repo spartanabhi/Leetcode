@@ -41,6 +41,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/spartanabhi/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/spartanabhi/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/spartanabhi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/spartanabhi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/spartanabhi/Leetcode/tree/master/0994-rotting-oranges) |
@@ -237,6 +238,7 @@
 | [0076-minimum-window-substring](https://github.com/spartanabhi/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/spartanabhi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/spartanabhi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/spartanabhi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spartanabhi/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
