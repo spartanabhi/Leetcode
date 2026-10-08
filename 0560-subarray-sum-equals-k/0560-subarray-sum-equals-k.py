@@ -1,18 +1,18 @@
-class Solution(object):
+class Solution:
     def subarraySum(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        count = 0
-        sums = 0
-        d = dict()
-        d[0] = 1
+        prefix_count = {0: 1}
         
-        for i in range(len(nums)):
-            sums += nums[i]
-            count += d.get(sums-k,0)
-            d[sums] = d.get(sums,0) + 1
-        
-        return(count)
+        prefix = 0
+        answer = 0
+
+        for num in nums:
+            prefix += num
+
+            # We need an earlier prefix equal to prefix - k
+            answer += prefix_count.get(prefix - k, 0)
+
+            # Store this prefix sum
+            prefix_count[prefix] = prefix_count.get(prefix, 0) + 1
+
+
+        return answer
