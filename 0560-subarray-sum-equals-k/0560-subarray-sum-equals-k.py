@@ -9,7 +9,8 @@ class Solution:
             prefix += num
 
             # We need an earlier prefix equal to prefix - k
-            answer += prefix_count.get(prefix - k, 0)
+            need = prefix-k
+            answer += prefix_count.get(need, 0)
 
             # Store this prefix sum
             prefix_count[prefix] = prefix_count.get(prefix, 0) + 1
