@@ -14,5 +14,5 @@ class Solution:
         checkRight = self.check(root.right,root.val+1,max)
         return checkLeft and checkRight
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        return self.check(root,-10000000000,10000000000)
+        return self.check(root,float("-inf"),float("inf"))
         
