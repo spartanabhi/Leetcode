@@ -64,6 +64,7 @@
 | [0014-longest-common-prefix](https://github.com/spartanabhi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/spartanabhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/spartanabhi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/spartanabhi/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/spartanabhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/spartanabhi/Leetcode/tree/master/0179-largest-number) |
