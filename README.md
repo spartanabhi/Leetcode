@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/spartanabhi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/spartanabhi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/spartanabhi/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/spartanabhi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/spartanabhi/Leetcode/tree/master/0322-coin-change) |
@@ -112,6 +113,7 @@
 | [0217-contains-duplicate](https://github.com/spartanabhi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/spartanabhi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/spartanabhi/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/spartanabhi/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/spartanabhi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/spartanabhi/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -397,6 +399,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/spartanabhi/Leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/spartanabhi/Leetcode/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/spartanabhi/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
