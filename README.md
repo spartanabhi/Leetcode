@@ -20,6 +20,7 @@
 | [0055-jump-game](https://github.com/spartanabhi/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/spartanabhi/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/spartanabhi/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/spartanabhi/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/spartanabhi/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -190,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/spartanabhi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/spartanabhi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/spartanabhi/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/spartanabhi/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/spartanabhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/spartanabhi/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -288,6 +290,7 @@
 | [0048-rotate-image](https://github.com/spartanabhi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/spartanabhi/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/spartanabhi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/spartanabhi/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/spartanabhi/Leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
